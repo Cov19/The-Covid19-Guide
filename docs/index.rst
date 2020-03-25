@@ -1,1 +1,2 @@
-Setting up here!
+Welcome to the Guide!
+=====================
