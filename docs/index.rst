@@ -21,8 +21,8 @@ Things to keep in mind are:
 
 Emergency Communication Methods can include: 
 
- | 3. The `Decentralized-Internet SDK`_ 
- | 4. `MediSafe`_
+| 3. The `Decentralized-Internet SDK`_ 
+| 4. `MediSafe`_
 
 .. _Educational Course: https://www.udemy.com/course/coronavirus/
 .. _Decentralized-Internet SDK: lonero.readthedocs.io
